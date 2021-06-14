@@ -4,3 +4,6 @@ but only could manage the dates, wasn't able to access the forecast api fields. 
 This program uses css, javascript, moment.js, and calls server api. Bootstrap was also heavily used.
 repository: https://github.com/Robert100-Case/Homework-Weather-Dashboard
 program url: https://robert100-case.github.io/Homework-Weather-Dashboard/
+
+# License
+MIT

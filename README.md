@@ -5,5 +5,10 @@ This program uses css, javascript, moment.js, and calls server api. Bootstrap wa
 repository: https://github.com/Robert100-Case/Homework-Weather-Dashboard
 program url: https://robert100-case.github.io/Homework-Weather-Dashboard/
 
-# License
+## Usage 
+API's
+
+## License
 MIT
+
+<img src="weatherdashboard.png>
